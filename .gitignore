@@ -1,3 +1,8 @@
+
+# data dir
+data/
+
+# system file
 .DS_Store
 
 # Byte-compiled / optimized / DLL files
