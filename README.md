@@ -1,5 +1,5 @@
-# vernon-etal_2022_scidata
-Harmonized geospatial data to support feasibility analyses of energy system transitions in the United States
+# vernon-etal_2023_scidata
+Harmonized geospatial data to support infrastructure siting feasibility studies for regional scale energy system transitions 
 
 Jupyter Notebooks to support GRIDCERF development and validation
 
