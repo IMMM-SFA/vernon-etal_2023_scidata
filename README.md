@@ -14,10 +14,10 @@ Vernon, C.R., Mongird, K., Rice, J.S., and Nelson, K. Harmonized geospatial data
 
 Jupyter Notebooks to support GRIDCERF development and validation
 
-## Data reference
+## Project Data
 Vernon, C. R., Nelson, K., Mongird, K., & Rice, J. S. (2022). GRIDCERF: Geospatial Raster Input Data for Capacity Expansion Regional Feasibility (v1.0.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.6601789
 
-# Reproduce my work
+## Reproduce my work
 All code used to create and validate data used in this publication can be reproduced using the following Jupyter notebooks:
 
 
@@ -29,6 +29,7 @@ All code used to create and validate data used in this publication can be reprod
 | build_common_suitability.ipynb | Builds all common suitability layers | 
 | build_compiled_suitability.ipynb | Compiles all technology suitability layer |
 | build_earthquake_potential_suitability.ipynb | Generates earthquake potential suitability layer | 
+| build_nonattainment_suitability.ipynb | Generate non-attainment suitability layers | 
 | build_population_suitability.ipynb | Generate proximity to population dense areas suitibility layers | 
 | build_railnodes_navwaters_suitability.ipynb | Generate proximity to rail nodes and navigable waters suitability layers |
 | build_slope_suitability.ipynb | Generate slope suitability layers |
