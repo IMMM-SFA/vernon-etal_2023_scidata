@@ -15,7 +15,7 @@ Vernon, C.R., Mongird, K., Rice, J.S., and Nelson, K. Harmonized geospatial data
 Jupyter Notebooks to support GRIDCERF development and validation
 
 ## Project Data
-Vernon, C. R., Mongird, K., Nelson, K., & Rice, J. S. (2023). GRIDCERF: Geospatial Raster Input Data for Capacity Expansion Regional Feasibility (v1.1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.8213002
+Vernon, C. R., Mongird, K., Nelson, K., & Rice, J. S. (2023). GRIDCERF: Geospatial Raster Input Data for Capacity Expansion Regional Feasibility (v1.1.1) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.8214910
 
 ## Reproduce my work
 All code used to create and validate data used in this publication can be reproduced using the following Jupyter notebooks.  
