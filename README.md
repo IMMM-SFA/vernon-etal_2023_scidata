@@ -2,9 +2,9 @@
 
 **Harmonized geospatial data to support infrastructure siting feasibility studies for regional scale energy system transitions**
 
-Chris R. Vernon<sup>1\*</sup>, Kendall Mongird<sup>1\*</sup>, Jennie S. Rice<sup>1\*</sup>, and Kristian Nelson<sup>1</sup>
+Chris R. Vernon<sup>1\*</sup>, Kendall Mongird<sup>1\</sup>, Jennie S. Rice<sup>1\</sup>, and Kristian Nelson<sup>1</sup>
 
-<sup>1 </sup> Institute for Energy Analysis, Oak Ridge Associated Universities, 1346 Connecticut Avenue, NW, Washington, DC 20036, USA
+<sup>1 </sup> Pacific Northwest National Laboratory, Richland, WA. 99354
 
 ## Abstract
 Climate change, energy system transitions, and socioeconomic change are compounding influences affecting the growth of electricity demand. While energy efficiency initiatives and distributed resources can address a significant amount of this demand, the United States will likely still need new utility-scale generation resources. The energy sector uses capacity expansion planning models to determine the aggregate need for new generation, but these models are typically at the state or regional scale and are not equipped to address the wide range of location- and technology-specific issues that are increasingly a factor in power plant siting. To help address these challenges, we have developed the Geospatial Raster Input Data for Capacity Expansion Regional Feasibility (GRIDCERF) data package, a high-resolution product to evaluate siting suitability for renewable and non-renewable power plants in the conterminous United States. GRIDCERF offers 265 suitability layers for use with 56 power plant technology configurations in a harmonized format that can be easily ingested by geospatially-enabled modeling software. It also provides pre-compiled technology-specific suitability layers and allows for user customization to robustly address science objectives when evaluating varying future conditions.
@@ -15,7 +15,7 @@ Vernon, C.R., Mongird, K., Rice, J.S., and Nelson, K. Harmonized geospatial data
 Jupyter Notebooks to support GRIDCERF development and validation
 
 ## Project Data
-Vernon, C. R., Mongird, K., Nelson, K., & Rice, J. S. (2023). GRIDCERF: Geospatial Raster Input Data for Capacity Expansion Regional Feasibility (v1.1.2) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.8216090
+Vernon, C. R., Mongird, K., Nelson, K., & Rice, J. S. (2023). GRIDCERF: Geospatial Raster Input Data for Capacity Expansion Regional Feasibility (v1.1.3) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.8218921
 
 ## Reproduce my work
 All code used to create and validate data used in this publication can be reproduced using the following Jupyter notebooks.  
