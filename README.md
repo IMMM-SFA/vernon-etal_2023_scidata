@@ -2,7 +2,7 @@
 
 **Harmonized geospatial data to support infrastructure siting feasibility studies for regional scale energy system transitions**
 
-Chris R. Vernon<sup>1\*</sup>, Kendall Mongird<sup>1\</sup>, Jennie S. Rice<sup>1\</sup>, and Kristian Nelson<sup>1</sup>
+Chris R. Vernon<sup>1\*</sup>, Kendall Mongird<sup>1</sup>, Jennie S. Rice<sup>1</sup>, and Kristian Nelson<sup>1</sup>
 
 <sup>1 </sup> Pacific Northwest National Laboratory, Richland, WA. 99354
 
