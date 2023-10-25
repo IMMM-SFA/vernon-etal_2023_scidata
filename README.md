@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/498631728.svg)](https://zenodo.org/doi/10.5281/zenodo.10042070)
+
 # vernon-etal_2023_scidata
 
 **Harmonized geospatial data to support infrastructure siting feasibility studies for regional scale energy system transitions**
